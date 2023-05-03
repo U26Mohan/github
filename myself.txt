@@ -1,0 +1,28 @@
+->my name is nagendra, 
+->I am from Tirupathi,
+->I have done my graduation and my specialization in electronics and communication engineering from jawaharlal nehru university in Anantapur,
+->I have 5 years of experience  and I worked as an AWS cloud engineer,
+->I have AWS services like ec2, vpc, DNS, s3, SNS, and cloud formation coming to my aws experience in compute section I used to create instances for different environments like 
+  CPU, developing, testing, pre-production, and production.
+->We are using instance types like t-type and m-type and sometimes using c-type of instances   
+->I can use load balancers for equal distributions of traffic as well as for the high application and low applications. 
+->We have attached autoscaling to the load balancer and we have 3 types of load balancers there are application load balancer, network load balancer, gateway load balancer
+->Comming to the storage section I have worked on EBS and S3.
+->Snapshots are used for backup purposes in EBS volumes and EC2 instances.	
+->EBS I have used for sharing among all Linux servers we have for remote windows servers as a shared drive so that remote windows users can have axile to the shared drives.
+->Coming  to the s3 (simple storage service) is an object storage type of service we can store data in an s3 bucket and any type of data can store in s3 there are  different kinds s3 storage
+  EFS, FSX, S3 Glacier, Storage Gateway, AWS Backups, Disaster Recovery.
+->It can store unlimited data in s3.
+->coming to the database terminals in our project we are using RDS RDS we are using MY SQL as different from the requirements.
+->Coming to  RDS is connected to my SQL and aurora.
+->Coming to dynamo db it can store key values.
+->Coming to Network 
+->Creating the vpc is the best way to connect to your cloud resources from your own data center. 
+->Coming to the subnets partition to the vpc, subnets are divided into the same parts in vpc.
+->Route table is working on distributing the data.
+->Internet Gateway is providing the Internet in our services.
+->NAT Gateway (Network address translation) it can connect the elastic ips and connect associate the any server.
+->IAM can access the permissions in our services like your requirement.
+->Cloud Watch monitoring all services.
+->SNS (simple notification service) gives alerts in all services.
+    
